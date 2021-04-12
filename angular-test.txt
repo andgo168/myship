@@ -1,0 +1,13 @@
+ Angular 模板语法的五个常用特性：
+
+*ngFor
+
+*ngIf
+
+插值 {{}}
+
+属性绑定 []
+
+事件绑定 ()
+
+使用 Angular Generator 生成一个名为 product-alerts
